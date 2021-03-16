@@ -1,19 +1,16 @@
-# hillcipher
-Hill Şifrelemesi - Cryptleme ve DeCryptleme (C#)
-bruh bruh bruh
-Hill Şifrelemesi
+Hill Cypher - Crypting and DeCrypting (C#)
+
 
 -Encrypt-
-Anahtar girişi yapın
-Kelimenin uzunluğunu girin
-Kelimeyi ikili bir şekilde girin
-Şifrelensin
+Enter the length of the word
+Enter a key
+Enter the words letter. (Two letters in each input)
+
 
 
 -Decrypt-
-Keyi girin.
-Şifre Uzunluğunu girin
-Şifreyi ikili ikili girin.
-Şifre decryptlensin.
+Enter the length of the word
+Enter a key
+Enter the words letter. (Two letters in each input)
 
-bozox naber
+
