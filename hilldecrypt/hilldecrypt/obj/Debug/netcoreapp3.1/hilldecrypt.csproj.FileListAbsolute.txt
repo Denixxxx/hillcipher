@@ -1,0 +1,13 @@
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.csprojAssemblyReference.cache
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.csproj.CoreCompileInputs.cache
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.AssemblyInfoInputs.cache
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.AssemblyInfo.cs
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.exe
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.deps.json
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.runtimeconfig.json
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.runtimeconfig.dev.json
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.dll
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\bin\Debug\netcoreapp3.1\hilldecrypt.pdb
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.dll
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.pdb
+C:\Users\dnzod\Desktop\vizeler\Algortima\hilldecrypt\hilldecrypt\obj\Debug\netcoreapp3.1\hilldecrypt.genruntimeconfig.cache
